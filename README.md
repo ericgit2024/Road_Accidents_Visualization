@@ -19,13 +19,8 @@ The objective of this project is to visualize road accident data using different
 ## Visualizations
 The project includes the following types of visualizations:
 
-1. **Line Plot**: Display trends in the dataset over time or other continuous variables.
-2. **Bar Graphs**: Compare accident frequencies across categories.
-3. **Histograms**: Show the distribution of variables, such as accident severity or time of day.
-4. **Pie Chart**: Visualize proportional data (e.g., accident types).
-5. **Box Plot**: Provide a summary of the distribution and identify outliers in the data.
-6. **Scatter Plot**: Explore relationships between two continuous variables, like speed and accident severity.
-7. **Countplot**: Show the count of occurrences in a categorical variable.
-8. **Heatmap**: Visualize correlations between different variables in the dataset.
-
+1. **Bar Graphs**: Compare accident frequencies across categorical variables (e.g., driving experience, day of the week, age distributions).
+2. **Countplots**: Show the count of occurrences for categorical data, such as accident counts by weather conditions or casualty age distributions by severity.
+3. **Pie Chart**: Visualize proportional data, such as the overall distribution of accident severity.
+4. **Heatmap**: Visualize relationships and cross-tabulations between categorical variables (e.g., casualty age vs. driving experience, driver age vs. accident severity).
 
